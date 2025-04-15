@@ -1,0 +1,67 @@
+{
+  "name": "project_management_system_frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emailjs/browser": "^3.12.1",
+    "@mantine/core": "^7.1.7",
+    "@mantine/form": "^7.3.1",
+    "@mantine/hooks": "^7.1.7",
+    "@next-tools/dynamic": "^0.0.11",
+    "@react-three/drei": "^9.105.4",
+    "@react-three/fiber": "^8.16.2",
+    "@tabler/icons-react": "^2.40.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/node": "^20.12.7",
+    "animate.css": "^4.1.1",
+    "axios": "^1.6.0",
+    "clsx": "^2.1.0",
+    "framer-motion": "^11.1.2",
+    "react": "^18.2.0",
+    "react-charts": "^2.0.0-beta.7",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0",
+    "react-resizable": "^3.0.5",
+    "react-router-dom": "^6.18.0",
+    "react-scripts": "5.0.1",
+    "react-simple-typewriter": "^5.0.1",
+    "react-to-print": "^2.14.15",
+    "tailwind-merge": "^2.2.2",
+    "three": "^0.163.0",
+    "three-globe": "^2.31.0",
+    "typescript": "^5.2.2",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "postcss": "^8.4.31",
+    "postcss-preset-mantine": "^1.9.0",
+    "postcss-simple-vars": "^7.0.1",
+    "tailwindcss": "^3.3.5"
+  }
+}

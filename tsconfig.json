@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "incremental": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/styles/*": ["/src/styles/*"],
+      "@/components/*": ["src/components/*"]
+    },
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "preserve"
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "src/component/Project/tabsss.jsx",
+    "src/component/Project/tabsss.jsx",
+    "src/component/Project/TabsDemo.jsx"
+  ],
+  "exclude": ["node_modules"]
+}
