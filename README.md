@@ -1,6 +1,6 @@
-# Nique Light - Company Profile Web App
+# Unique Light - Company Profile Web App
 
-Nique Light is a modern, responsive company profile web application built with **React** and **TypeScript**. It showcases a curated catalog of lighting products and services, tailored to provide a clean, intuitive user experience for clients and stakeholders.
+Unique Light is a modern, responsive company profile web application built with **React** and **TypeScript**. It showcases a curated catalog of lighting products and services, tailored to provide a clean, intuitive user experience for clients and stakeholders.
 
 ---
 
